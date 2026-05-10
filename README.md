@@ -1,4 +1,4 @@
-💻 **Desenvolvedor & Especialista em Automação em formação**  
+💻 **Desenvolvedor & Especialista em Automação em Formação**  
 🚀 Integrando sistemas e otimizando processos com **Python, C# e n8n**  
 🌐 Criando interfaces modernas com **React, HTML5, CSS3 e JS**  
 📍 Itajubá - MG, Brasil
@@ -6,6 +6,7 @@
 ---
 
 ### ⚙️ O que me diferencia no mercado
+
 Diferente da maioria dos devs que focam apenas em telas, meu foco é **resolver problemas reais**. Utilizo **n8n e Python** para criar fluxos automatizados, conectar APIs e eliminar trabalho manual, integrando tudo com backends sólidos em **C#** e frontends em **React**.
 
 ---
@@ -31,6 +32,26 @@ Diferente da maioria dos devs que focam apenas em telas, meu foco é **resolver 
 
 ---
 
-### 📫 Conecte-se comigo
+### 📊 Raio-X do meu Código
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marksantwayne&show_icons=true&theme=ocean_dark&locale=pt-br&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marksantwayne&layout=compact&theme=ocean_dark&hide_border=true)
+
+---
+
+### 🚧 Projetos Ativos
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**organizador-arquivos**](https://github.com/marksantwayna/organizador-arquivos-python) | Script Python que organiza sua pasta downloads automaticamente | `Python` `OS` `Shutil` |
+| [**estudos-programacao**](https://github.com/marksantwayna/estudos-programacao) | Caderno digital organizado de estudos de programação | `Git` `Markdown` |
+
+*(Em construção...)*
+
+---
+
+### 📫 Conecte-se Comigo
 - 📧 **E-mail:** interwaynemark@gmail.com
 - 🤝 **Parcerias:** Aberto para projetos de automação (n8n) e desenvolvimento web.
+
+> *Automatizar o presente é programar o futuro.*
